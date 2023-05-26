@@ -1,16 +1,16 @@
-### Hi there 👋
+### 🇺🇦 Hi im Dima
 
-<!--
-**dimutch833/dimutch833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Слава Україні!!!**
 
-Here are some ideas to get you started:
+**im from Lutsk,Ukraine** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programing Languages
+   * Medium Level : C/C++
+   * Beginner : PHP , JS , Python , C# , Java
+   
+- Interested in
+  * OSDev
+  * MCU Programing
+  * Backend
+  * Graphics Programing
+  * Gamedev
