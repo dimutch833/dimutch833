@@ -1,9 +1,11 @@
 ### 🇺🇦 Hi im Dima
 
-[card](https://dimutch833.github.io/dimutch833/about.html)
 **Слава Україні!!!**
 
 **im from Lutsk,Ukraine** 
+
+
+[card](https://dimutch833.github.io/dimutch833/about.html)
 
 - Programing Languages
    * Medium Level : C/C++
