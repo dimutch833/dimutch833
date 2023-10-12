@@ -1,4 +1,4 @@
-### 🇺🇦 Hi im Dima
+### Hi im Dima
 
 **Слава Україні!!!**
 
@@ -11,10 +11,8 @@
    * Beginner : PHP , JS , Python , C# , Java
    
 - Interested in
-  * OSDev
   * MCU Programing
   * Backend
-  * Graphics Programing
   * Gamedev
     
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
